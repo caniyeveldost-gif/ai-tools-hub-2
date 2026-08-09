@@ -1,0 +1,6 @@
+{
+  "name": "AI Tools Hub",
+  "description": "AI Tools Hub featuring AI Chat, Prompt Generator, Essay Writer, and daily free credits system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
